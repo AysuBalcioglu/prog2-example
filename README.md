@@ -1,1 +1,1 @@
-# prog2-example
+# prog2
